@@ -37,9 +37,15 @@ The app was created from my own ideas and developed with AI assistance during th
 - Gradle
 - Native Android APIs
 
-## 📱 Download
+## 📱 Download Aethon Fit
 
-The latest Android APK is available from the **Releases** section of this repository.
+### Latest Release
+
+👉 **[Download Aethon Fit for Android](../../releases/latest)**
+
+The latest APK is available through GitHub Releases.
+
+Aethon Fit is currently distributed as a free Android application.
 
 > Aethon Fit is currently distributed as a free Android application.
 
