@@ -76,7 +76,29 @@ The overall application idea, feature selection, design direction, testing, and 
 
 ## 📸 Screenshots
 
-Screenshots of Aethon Fit will be added here.
+### Home
+
+![Aethon Fit Home](screenshots/homepage.png)
+
+### Workout
+
+![Aethon Fit Workout](screenshots/select-any-muscle-group.png)
+
+### Exercise Library
+
+![Aethon Fit Exercise Library](screenshots/streak.png)
+
+### Running
+
+![Aethon Fit Running](screenshots/library.png)
+
+### Anatomy
+
+![Aethon Fit Anatomy](screenshots/livestepstracker.png)
+
+### Settings
+
+![Aethon Fit Settings](screenshots/settings-and-data.png)
 
 ## 📌 Project Status
 
